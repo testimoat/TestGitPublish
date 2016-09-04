@@ -1,0 +1,5 @@
+C:\Users\jf\Code\cs\NTracker\TestGitPublish\TestGitPublish\bin\Debug\TestGitPublish.dll
+C:\Users\jf\Code\cs\NTracker\TestGitPublish\TestGitPublish\bin\Debug\TestGitPublish.pdb
+C:\Users\jf\Code\cs\NTracker\TestGitPublish\TestGitPublish\obj\Debug\TestGitPublish.csprojResolveAssemblyReference.cache
+C:\Users\jf\Code\cs\NTracker\TestGitPublish\TestGitPublish\obj\Debug\TestGitPublish.dll
+C:\Users\jf\Code\cs\NTracker\TestGitPublish\TestGitPublish\obj\Debug\TestGitPublish.pdb
